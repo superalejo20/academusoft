@@ -1,0 +1,32 @@
+{
+	"CONSULTA": [
+		{
+			"ID": 1,
+			"respuesta": "buen dia, la planta orquidea es del Quindio",
+			"pregunta": "buen dia, la planta orquidea es originaria de donde?",
+			"MITUTOR_CEDULA": "1094555555",
+			"MIESTUDIANTE_CEDULA": "41927815"
+		},
+		{
+			"ID": 2,
+			"respuesta": "buen dia, si cura dolores artiulares",
+			"pregunta": "buen dia, la planta marihuana es medicinal?",
+			"MITUTOR_CEDULA": "1094666666",
+			"MIESTUDIANTE_CEDULA": "1094333333"
+		},
+		{
+			"ID": 3,
+			"respuesta": "buen dia, no son venenosas'",
+			"pregunta": "las hojas de amapola son venenosas?",
+			"MITUTOR_CEDULA": "1094666666",
+			"MIESTUDIANTE_CEDULA": "24666666"
+		},
+		{
+			"ID": 4,
+			"respuesta": "buen dia, puede servirte un bonsai'",
+			"pregunta": "Que plantas crecen solo hasta 10cm?",
+			"MITUTOR_CEDULA": "1094777777",
+			"MIESTUDIANTE_CEDULA": "100000000"
+		}
+	]
+}

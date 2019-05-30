@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Bryan Henao
+Class-Path: ModuloPersistencia-0.0.1-SNAPSHOT.jar ModuloNegocio-0.0.1-
+ SNAPSHOT.jar
+Build-Jdk: 1.8.0_201
+Created-By: Maven Integration for Eclipse
+
